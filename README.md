@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 💻 MERN Stack Developer (React, Node.js, MongoDB)
-- 🎓  BSc.in CSE at North South University
+- 🎓  BSc. in CSE at North South University
 - 🌱 Currently improving full-stack & backend skills
 - 🎯 Open to **entry-level / junior developer roles**
 - ⚡ Passionate about clean code & real-world problem solving
@@ -49,4 +49,4 @@
 - 🔹 **MERN Portfolio Website**  
   **Tech:** React, Tailwind CSS, Node.js  
 
-👉 More MERN projects coming soon 🚀
+👉 More projects coming soon 🚀
