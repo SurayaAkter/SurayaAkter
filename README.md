@@ -50,4 +50,4 @@
 - 🔹 **MERN Portfolio Website**  
   **Tech:** React, Tailwind CSS, Node.js  
 
-👉 More MERN & Python projects coming soon 🚀
+ More MERN & Python projects coming soon.....
