@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Suraiya Akter</h1>
-<h3 align="center">MERN Stack Developer | CSE @ NSU (2025)</h3>
+<h3 align="center">MERN Stack & Python Developer | CSE @ NSU (2025)</h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 💻 MERN Stack Developer (React, Node.js, MongoDB)
-- 🎓  BSc. in CSE at North South University
+- 🐍 Python Developer (Flask, MySQL)
+- 🎓 BSc. in CSE at North South University
 - 🌱 Currently improving full-stack & backend skills
 - 🎯 Open to **entry-level / junior developer roles**
-- ⚡ Passionate about clean code & real-world problem solving
+- ⚡ Curious learner exploring new technologies and real-world solutions
 
 ---
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,bootstrap,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,javascript,html,css,git,github,bootstrap,tailwind,vscode" />
 </p>
 
 ---
@@ -44,9 +45,9 @@
 
 ### 🚀 Featured Projects
 - 🔹 **MediSheba** – Medical Appointment & Pharmacy Web App  
-  **Tech:** Flask, MySQL, HTML, CSS  
+  **Tech:** Python (Flask), MySQL, HTML, CSS  
 
 - 🔹 **MERN Portfolio Website**  
   **Tech:** React, Tailwind CSS, Node.js  
 
-👉 More projects coming soon 🚀
+👉 More MERN & Python projects coming soon 🚀
