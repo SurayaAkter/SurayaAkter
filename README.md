@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/suraiya-sammi-04050b279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:suraiya.sammi@gmail.com">
+  <a href="mailto:suraya.akter066@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
