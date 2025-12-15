@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraiya Akter</h1>
+<h1 align="center">Hi 👋, I'm Suraya Akter</h1>
 <h3 align="center">MERN Stack & Python Developer | CSE @ NSU (2025)</h3>
 
 ---
