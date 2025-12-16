@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 💻 MERN Stack Developer (React, Node.js, MongoDB)
+- 💻 MERN Stack  & Python Developer 
 - 🐍 Python Developer (Flask, MySQL)
 - 🎓 BSc. in CSE at North South University
 - 🌱 Currently improving full-stack & backend skills
