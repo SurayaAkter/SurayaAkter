@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 💻 MERN Stack  & Python Developer 
+- 💻 MERN Stack Developer 
 - 🐍 Python Developer (Flask, MySQL)
 - 🎓 BSc. in CSE at North South University
 - 🌱 Currently improving full-stack & backend skills
